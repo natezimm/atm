@@ -1,4 +1,4 @@
-This is an atm program written for a class assignment. The goal was to create a program to run an ATM maachine with certain features. 
+This is an atm program written for a class assignment. The goal was to create a program to run an ATM machine with certain features. 
 
 Features: 
 1. Display balance
